@@ -56,9 +56,8 @@ A healthcare management project developed as part of my academic work.
 
 ### 🚧 Other Projects
 
-- [CSE213 Project](https://github.com/Mustain9/CSE213-Project)
+- [Operating-System-Project](https://github.com/Mustain9/Operating-System-Project))
 - [Toll Plaza Management System](https://github.com/Mustain9/Toll_Plaza_Management_System)
-- [Zenova Interiors Webpage](https://github.com/Mustain9/Zenova-Interiors-Webpage)
 
 ---
 
